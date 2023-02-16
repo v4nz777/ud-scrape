@@ -45,4 +45,4 @@ If you encounter any issues with the script, please check the following:
 *   Make sure you have installed Python 3.x on your machine.
 *   Make sure you have installed the required packages by running `pip install -r requirements.txt`.
 *   If the script is not producing any output, check the log files in the `logs` directory for any errors or exceptions.
-*   If you are still having issues, please open an issue on GitHub or contact the developer for support.
+*   If you are still having issues, please open an issue on GitHub or contact the me for support.
