@@ -1,9 +1,9 @@
 Coupon Scraper
 ==============
 
-This is a Python script that scrapes coupon codes from Udemy and similar sites. It currently supports the following sites:
+This is a Python script that scrapes coupon codes for Udemy. It currently supports the following sites:
 
-*   Real Discount ([https://app.real.discount/](https://app.real.discount/))
+*   Real Discount ([https://app.real.discount/](https://real.discount/))
 *   Discudemy ([https://www.discudemy.com/](https://www.discudemy.com/))
 *   Udemy Freebies ([https://www.udemyfreebies.com/](https://www.udemyfreebies.com/))
 
